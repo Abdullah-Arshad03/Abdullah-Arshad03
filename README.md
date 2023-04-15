@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently Preparing **for Placement**
 
-- 🌱 I’m currently learning **React Js ( Front-End Library)**
+- 🌱 Proficient React Developer.
 
-- 👨‍💻 All of my projects are available at [https://relaxed-chaja-3039c2.netlify.app/](https://relaxed-chaja-3039c2.netlify.app/)
+- 👨‍💻 My Personal Portfolio [https://relaxed-chaja-3039c2.netlify.app/](https://relaxed-chaja-3039c2.netlify.app/)
 
 - 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, React Js**
 
