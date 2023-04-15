@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Arshad</h1>
-<h3 align="center">A passionate Front-End Developer</h3>
+<h3 align="center">A passionate React Developer</h3>
 
 - 🔭 I’m currently Preparing **for Placement**
 
