@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Arshad</h1>
-<h3 align="center">A passionate React Developer</h3>
+<h3 align="center">A passionate MERN Stack Developer</h3>
 
 - 🔭 I’m currently Preparing **for Placement**
 
-- 🌱 Proficient React Developer.
+- 🌱 Proficient MERN Stack Developer.
 
 - 👨‍💻 My Personal Portfolio [https://relaxed-chaja-3039c2.netlify.app/](https://relaxed-chaja-3039c2.netlify.app/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, React Js**
+- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, React Js, Node Js, Express Js, MongoDB**
 
-- 📫 How to reach me **aligatorabdullah@gmail.com**
+- 📫 How to reach me **abdullahharshad003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
