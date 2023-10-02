@@ -24,7 +24,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bin-arshad-6111a4241/)
 
 ## 🚀 About Me
-Hello there! My name is Abdullah Bin Arshad, and I'm a 3rd year Software Engineering student at Air University, Islamabad. I am passionate about front-end development and enjoy to create amazing web applications. In Late 2021, I began my journey of learning web development through various online resources, custom projects. Dive deeper into the latest web technologies including front-end library React Js, and Back-end technologies like Node Js, Express Js, MongoDB (as Database).
+Hello there! My name is Abdullah Bin Arshad, and I'm a 3rd year Software Engineering student at Air University, Islamabad. I am passionate about Full stack development and enjoy to create amazing web applications. In Late 2021, I began my journey of learning web development through various online resources, custom projects. Dive deeper into the latest web technologies including front-end library React Js, and Back-end technologies like Node Js, Express Js, MongoDB (as Database).
 
 I strive to deliver beyond constraints and bring my best to every project. Whether it's designing a responsive layout or optimizing website speed, I am always up for a challenge. My GitHub repository showcases some of my personal and professional projects that I have worked on, using the latest web technologies.
 
