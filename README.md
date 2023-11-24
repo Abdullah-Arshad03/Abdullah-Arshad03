@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Arshad</h1>
-<h3 align="center">A passionate MERN Stack Developer</h3>
+<h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
 - 🔭 I’m currently Preparing **for Placement**
 
