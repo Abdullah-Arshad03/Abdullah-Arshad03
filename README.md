@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **abdullahharshad003@gmail.com**
 
-- 🎮 Hobbies. **I love to playing computer games and completing small projects.**
+-  Hobbies. **I love exploring new things and expanding my knowledge.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
