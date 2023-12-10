@@ -75,9 +75,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-arshad03&" alt="abdullah-arshad03" /></p>
 
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-bin-arshad-6111a4241/)
-
 ## 🚀 About Me
 Hello there! My name is Abdullah Bin Arshad, and I'm a 3rd year Software Engineering student at Air University, Islamabad. I am passionate about Full stack development and enjoy to create amazing web applications. In Late 2021, I began my journey of learning web development through various online resources, custom projects. Dive deeper into the latest web technologies including front-end library React Js, and Back-end technologies like Node Js, Express Js, MongoDB (as Database).
 
