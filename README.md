@@ -5,7 +5,7 @@
 
 - 🌱 Proficient MERN Stack Developer.
 
-- 👨‍💻 All of my projects are available at [https://github.com/TalhaRizwan093/](https://github.com/TalhaRizwan093/)
+- 👨‍💻 All of my projects are available at [https://github.com/Abdullah-Arshad03/](https://github.com/Abdullah-Arshad03)
 
 - 💬 Ask me about **JavaScript, React Js, Node Js, Express Js, MongoDb**
 
