@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Arshad</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently Preparing **for Placement**
+- 🏫 I’m currently studying Software Engineering from **Comsats University Islamabad**
 
 - 🌱 Proficient MERN Stack Developer.
 
-- 👨‍💻 My Personal Portfolio [https://relaxed-chaja-3039c2.netlify.app/](https://relaxed-chaja-3039c2.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/TalhaRizwan093/](https://github.com/TalhaRizwan093/)
 
-- 💬 Ask me about **HTML5, CSS3, JavaScript, Bootstrap, React Js, Node Js, Express Js, MongoDB**
+- 💬 Ask me about **JavaScript, React Js, Node Js, Express Js, MongoDb**
 
 - 📫 How to reach me **abdullahharshad003@gmail.com**
+
+- 🎮 Hobbies. **I love to playing computer games and completing small projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -67,6 +69,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
   </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-arshad03&show_icons=true&locale=en&layout=compact" alt="abdullah-arshad03" /></p>
 
 
 ## 🔗 Links
