@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-arshad03&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-arshad03" /> </p>
 
 
-- 🏫 I’m currently studying Software Engineering from **Comsats University Islamabad**
+- 🏫 I’m currently studying Software Engineering from **Air University Islamabad**
 
 - 🌱 Proficient MERN Stack Developer.
 
