@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Bin Arshad</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
+<img align = "right" alt = "coding gif" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-arshad03&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-arshad03" /> </p>
+
+
 - 🏫 I’m currently studying Software Engineering from **Comsats University Islamabad**
 
 - 🌱 Proficient MERN Stack Developer.
