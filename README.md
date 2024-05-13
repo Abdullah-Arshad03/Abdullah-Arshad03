@@ -8,7 +8,7 @@
 
 - 🏫 I’m currently Associate Software Engineer at Futurenostics, Islamabad**
 
-- 🌱 Proficient MERN Stack Developer.
+- 🌱 Proficient Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah-Arshad03/](https://github.com/Abdullah-Arshad03)
 
