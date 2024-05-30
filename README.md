@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah-Arshad03/](https://github.com/Abdullah-Arshad03)
 
-- 💬 Ask me about **JavaScript, React Js, Node Js, Express Js, MongoDb**
+- 💬 Ask me about **JavaScript, React Js, Next Js, Node Js, Express Js, MongoDb**
 
 - 📫 How to reach me **abdullahharshad003@gmail.com**
 
