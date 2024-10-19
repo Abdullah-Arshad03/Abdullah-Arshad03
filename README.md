@@ -81,7 +81,7 @@
 
 
 ## 🚀 About Me
-Hello there! My name is Abdullah Bin Arshad, and I'm a Final Year Software Engineering student at Air University, Islamabad. I am passionate about Full stack development and enjoy to create amazing web applications. In Late 2021, I began my journey of learning web development through various online resources, custom projects. Dive deeper into the latest web technologies including front-end library React Js, and Back-end technologies like Node Js, Express Js, MongoDB (as Database).
+Hello there! My name is Abdullah Bin Arshad, and I'm a Final Year Software Engineering student at Air University, Islamabad. I am passionate about Full stack development and enjoy to create amazing web applications. In Late 2021, I began my journey of learning web development through various online resources, custom projects. Dive deeper into the latest web technologies including front-end library React Js, and Back-end technologies like Node Js, Express Js, NestJS, MongoDB, PostgreSQL (as Database).
 
 I strive to deliver beyond constraints and bring my best to every project. Whether it's designing a responsive layout or optimizing website speed, I am always up for a challenge. My GitHub repository showcases some of my personal and professional projects that I have worked on, using the latest web technologies.
 
