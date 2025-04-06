@@ -85,5 +85,5 @@ Hello there! My name is Abdullah Bin Arshad, and I'm a Final Year Software Engin
 
 I strive to deliver beyond constraints and bring my best to every project. Whether it's designing a responsive layout or optimizing website speed, I am always up for a challenge. My GitHub repository showcases some of my personal and professional projects that I have worked on, using the latest web technologies.
 
-Feel free to browse through my projects and connect with me on LinkedIn to discuss new opportunities or to collaborate on a project. Thank you for visiting my profile!
+Feel free to browse through my projects and connect with me on LinkedIn to discuss new opportunities or to collaborate on a project 🚀.
 
