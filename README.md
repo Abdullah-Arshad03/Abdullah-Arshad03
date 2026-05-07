@@ -5,9 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah-arshad03&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-arshad03" /> </p>
 
-
-- 🏫 I’m currently Associate Software Engineer at Futurenostics, Islamabad**
-
 - 🌱 Proficient Full Stack Developer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullah-Arshad03/](https://github.com/Abdullah-Arshad03)
