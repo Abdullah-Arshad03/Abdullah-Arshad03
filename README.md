@@ -1,3 +1,5 @@
+<h1 align="center">Abdullah Bin Arshad</h1>
+<!-- <h3 align="center">A dedicated Jnr Web developer hailing from Pakistan.</h3> -->
 Full Stack Developer
 🌍 Location: Islamabad, Pakistan 🇵🇰
 🎓 Education: Graduate of Air University
