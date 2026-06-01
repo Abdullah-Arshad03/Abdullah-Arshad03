@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Abdullah Bin Arshad</h1>
 
-Full Stack Developer
+Full Stack Software Engineer. 
 
 🌍 Location: Islamabad, Pakistan 🇵🇰  
 🎓 Education: Graduate of Air University  
