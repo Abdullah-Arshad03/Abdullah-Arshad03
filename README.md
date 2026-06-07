@@ -1,9 +1,15 @@
 <h1 align="center">👋 Hi, I'm Abdullah Bin Arshad</h1>
 
-Full Stack Software Engineer. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-bin-arshad/">LinkedIn</a>
+</p>
+
+Full Stack Software Engineer.
 
 🌍 Location: Islamabad, Pakistan 🇵🇰  
 🎓 Education: Graduate of Air University  
-💼 Experience: 3–4 years creating high-performance, user-centric applications across web and mobile platforms
+💼 Experience: 3–4 years creating high-performance, user-centric applications across web and mobile platforms  
 
-Software engineer with over 4 years of experience leading and developing diverse engineering teams (onsite, remote, and offshore). I've focused on building scalable product architecture, streamlining agile processes (Scrum/Kanban), and managing product suites.
+Software Engineer with over 4 years of experience leading and developing diverse engineering teams (onsite, remote, and offshore). I've focused on building scalable product architecture, streamlining agile processes (Scrum/Kanban), and managing product suites.
+
+🔗 LinkedIn: https://www.linkedin.com/in/abdullah-bin-arshad/
