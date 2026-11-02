@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/abdullah-bin-arshad/">LinkedIn</a>
 </p>
 
-Full Stack Software Engineer.
+Full Stack AI Software Engineer.
 
 🌍 Location: Islamabad, Pakistan 🇵🇰  
 🎓 Education: Graduate of Air University  
